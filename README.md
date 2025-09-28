@@ -11,39 +11,54 @@ A full-stack notes application where users can create, edit, and delete notes. B
 - 🌐 Frontend: [https://your-netlify-url.netlify.app](http://notezen.netlify.app/)
 - ⚙️ Backend API: [https://your-render-backend-url.onrender.com](https://react-notes-app-backend-9ly8.onrender.com)
 
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend:
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/) – blazing fast build tool
-- [Tailwind CSS](https://tailwindcss.com/) – utility-first CSS
-- [Axios](https://axios-http.com/) – for HTTP requests
-- [Netlify](https://netlify.com/) – for deployment
-
-### 🛠️ Backend:
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- [Mongoose](https://mongoosejs.com/)
-- [Render](https://render.com/) – for backend hosting
-- [dotenv](https://www.npmjs.com/package/dotenv) – to manage environment variables
-- [CORS](https://www.npmjs.com/package/cors) – to allow frontend-backend communication
-
----
-
 
 ---
 
 ## 🌟 Features
 
 - ✅ Create, Read, Update, Delete (CRUD) notes
+- ⚡ Real-Time Updates: Changes are reflected instantly
 - 🧠 Large and rich note content support
 - 📦 MongoDB Atlas database
 - ⚡ Fast UI with Vite and Tailwind CSS
 - 📱 Fully responsive design
 - ☁️ Live deployed frontend and backend
+
+---
+
+## 🖥️ Demo Screenshots
+
+**1️⃣ Dashboard/Home Page**  
+<img src="./public/screenshots/dashboard.png" width="500"/>
+
+**2️⃣ Add Note**  
+<img src="./public/screenshots/add-note.png" width="500"/>
+
+**3️⃣ Edit Note**  
+<img src="./public/screenshots/edit-note.png" width="500"/>
+
+**4️⃣ Real-Time Updates**  
+<img src="./public/screenshots/real-time.png" width="500"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend:
+- [React](https://reactjs.org/) - Interactive UI components
+- [Vite](https://vitejs.dev/) – blazing fast build tool
+- [Tailwind CSS](https://tailwindcss.com/) – utility-first CSS    
+- [Axios](https://axios-http.com/) – for HTTP requests
+- [Netlify](https://netlify.com/) – for deployment
+
+### 🛠️ Backend:
+- [Node.js](https://nodejs.org/) - Server-side logic
+- [Express.js](https://expressjs.com/) - Backend Server
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Cloud database for real-time storage
+- [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling
+- [Render](https://render.com/) – for backend hosting
+- [dotenv](https://www.npmjs.com/package/dotenv) – to manage environment variables
+- [CORS](https://www.npmjs.com/package/cors) – to allow frontend-backend communication
 
 ---
 
@@ -65,4 +80,21 @@ A full-stack notes application where users can create, edit, and delete notes. B
       cd client
       npm install
       npm run dev
+---
 
+ ## 👨‍💻 Connect with Me  
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yashwantbhole2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/YashwantBhole" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/yashwant_bhole_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
