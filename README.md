@@ -71,10 +71,10 @@ A full-stack notes application where users can create, edit, and delete notes. B
 ###  2. Setup the Backend
       cd server
       npm install
-# Create a .env file with:
-# MONGODB_URI = your-mongo-uri
-# PORT = 5000
-    npm start
+- Create a .env file with:
+- MONGODB_URI = your-mongo-uri
+- PORT = 5000
+- npm start
     
 ### Setup the Frontend
       cd client
