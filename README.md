@@ -2,14 +2,14 @@
 
 A full-stack notes application where users can create, edit, and delete notes. Built with modern technologies including **React**, **Vite**, **Tailwind CSS**, **Express.js**, and **MongoDB Atlas**.
 
-> Built for YOU! ⚙️
+
 
 ---
 
 ## 🔗 Live Links
 
-- 🌐 Frontend: [Click here](http://notezen.netlify.app/)
-- ⚙️ Backend API: [Click here](https://react-notes-app-backend-9ly8.onrender.com)
+- 🌐 Live App: [Click here](http://notezen.netlify.app/)
+- ⚙️ Backend Repo: [Click here](https://github.com/YashwantBhole/react-notes-app-backend)
 
 
 ---
